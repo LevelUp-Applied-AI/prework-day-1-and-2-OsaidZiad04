@@ -28,3 +28,13 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+
+## About
+
+My name is Osaid Alhawamdeh, a student of Artificial Intelligence and Data Science. This repository contains my pre-work assignments and setup configuration.
+
+## Setup
+
+```bash
+git clone [https://github.com/LevelUp-Applied-AI/prework-day-1-and-2-OsaidZiad04.git](https://github.com/LevelUp-Applied-AI/prework-day-1-and-2-OsaidZiad04.git)
+cd prework-day-1-and-2-OsaidZiad04
